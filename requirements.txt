@@ -1,2 +1,4 @@
 Flask~=2.2.1
-boto3
+boto3~=1.24.46
+PyYAML~=6.0
+botocore~=1.27.46
