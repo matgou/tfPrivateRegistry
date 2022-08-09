@@ -14,3 +14,9 @@ export AWS_SESSION_TOKEN=abcdefghijklm
 
 python main.py
 ````
+
+## Serverless installation
+
+Exemple d'utilisation dans une architecture serverless.
+
+![ArchitectureServerless](https://raw.githubusercontent.com/matgou/tfPrivateRegistry/master/ServerlessTerraformPrivateRegistry.drawio.png)
